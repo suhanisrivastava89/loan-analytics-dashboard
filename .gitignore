@@ -1,0 +1,4 @@
+data/raw/
+data/processed/loans.db
+.ipynb_checkpoints/
+__pycache__/
